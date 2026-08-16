@@ -4,7 +4,7 @@ Repositório destinado a organização dos meus projetos, notebooks e atividades
 
 **Instituição:** Universidade de Mogi das Cruzes (UMC)  
 **Curso:** Engenharia de Software (6º Semestre)  
-**Aluno:** Nicolas Mariano de Azevedo
+**Aluno:** Nicolas Mariano de Azevedo  
 **Professor:** Fabiano Bezerra Menegidio  
 
 ---
