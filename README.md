@@ -19,4 +19,8 @@ Aqui estão armazenados todos os notebooks e scripts desenvolvidos ao longo da d
 ### Atividade 2
 - **Exercícios_DataScience_Nicolas_Mariano_6B.ipynb:** Resolução de exercícios práticos focados em manipulação, visualização e análise de dados (NumPy, SciPy, Pandas e Matplotlib). Acompanham uma pasta com os arquivos de suporte e bases de dados utilizados (`vendas.xlsx`, `resultados.csv` e `grafico_exercicio_17.pdf`).
 
+### Atividade 3
+- **Exercício_SVM_Nicolas_Mariano_6B (Kaggle):** Notebook desenvolvido e executado diretamente na plataforma Kaggle para classificação do dataset *Iris Species*. O projeto contempla a obtenção de dados externos, Análise Exploratória de Dados (EDA) com visualizações gráficas e o treinamento de um modelo de Machine Learning utilizando exclusivamente o algoritmo Support Vector Machine (SVM). O modelo foi avaliado com sucesso através de métricas clássicas (Acurácia, Relatório de Classificação e Matriz de Confusão).  
+**Acesso ao Notebook:** https://www.kaggle.com/code/nicolasmariano/exercicio-svm-nicolas-mariano-6b
+
 *(Mais projetos e notebooks serão listados aqui conforme o andamento do semestre).*
