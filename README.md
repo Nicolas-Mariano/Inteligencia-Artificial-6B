@@ -23,4 +23,8 @@ Aqui estão armazenados todos os notebooks e scripts desenvolvidos ao longo da d
 - **Exercício_SVM_Nicolas_Mariano_6B (Kaggle):** Notebook desenvolvido e executado diretamente na plataforma Kaggle para classificação do dataset *Iris Species*. O projeto contempla a obtenção de dados externos, Análise Exploratória de Dados (EDA) com visualizações gráficas e o treinamento de um modelo de Machine Learning utilizando exclusivamente o algoritmo Support Vector Machine (SVM). O modelo foi avaliado com sucesso através de métricas clássicas (Acurácia, Relatório de Classificação e Matriz de Confusão).  
 **Acesso ao Notebook:** https://www.kaggle.com/code/nicolasmariano/exercicio-svm-nicolas-mariano-6b
 
+### Atividade 4
+- **Classificacao_Iris_Nicolas_Mariano_6B.ipynb (Kaggle):** Notebook desenvolvido e executado diretamente na plataforma Kaggle para análise e classificação avançada do dataset *Iris Species*. O projeto contempla a obtenção de dados reais, Análise Exploratória de Dados (EDA) com visualizações gráficas e o treinamento comparativo de múltiplos algoritmos de Machine Learning: **SVM**, **Árvore de Decisão**, **Floresta Aleatória (Random Forest)** e **Boosting (Gradient Boosting)**. Todos os modelos foram avaliados com e sem a otimização de hiperparâmetros via **GridSearchCV**, analisando detalhadamente métricas de Acurácia e Sensibilidade (Recall).  
+**Acesso ao Notebook:** https://www.kaggle.com/code/nicolasmariano/classificacao-iris-nicolas-mariano-6b/edit
+
 *(Mais projetos e notebooks serão listados aqui conforme o andamento do semestre).*
