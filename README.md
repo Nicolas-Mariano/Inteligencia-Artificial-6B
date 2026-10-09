@@ -27,4 +27,8 @@ Aqui estão armazenados todos os notebooks e scripts desenvolvidos ao longo da d
 - **Classificacao_Iris_Nicolas_Mariano_6B.ipynb (Kaggle):** Notebook desenvolvido e executado diretamente na plataforma Kaggle para análise e classificação avançada do dataset *Iris Species*. O projeto contempla a obtenção de dados reais, Análise Exploratória de Dados (EDA) com visualizações gráficas e o treinamento comparativo de múltiplos algoritmos de Machine Learning: **SVM**, **Árvore de Decisão**, **Floresta Aleatória (Random Forest)** e **Boosting (Gradient Boosting)**. Todos os modelos foram avaliados com e sem a otimização de hiperparâmetros via **GridSearchCV**, analisando detalhadamente métricas de Acurácia e Sensibilidade (Recall).  
 **Acesso ao Notebook:** https://www.kaggle.com/code/nicolasmariano/classificacao-iris-nicolas-mariano-6b/edit
 
+### Atividade 5 (Treinamento para a Prova)
+- **Familia_Peixe_Nicolas_Mariano_6B.ipynb:** Notebook desenvolvido no Google Colab como simulado e preparação intensiva para a prova da disciplina. O projeto abrange o pipeline completo de Data Science aplicado à classificação de famílias de peixes (Dataset: *FISHMORPH_Family_Dataset*). 
+**Acesso ao Notebook:** (https://colab.research.google.com/drive/1Bo2lf0-6c6-uAa2ZT030CxCtlWwpNRrv?usp=sharing)
+
 *(Mais projetos e notebooks serão listados aqui conforme o andamento do semestre).*
